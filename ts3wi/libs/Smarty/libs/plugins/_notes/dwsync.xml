@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="block.php.php" server="192.168.1.100" local="131236421796996901" remote="131115298800000000" Dst="1" />
+<file name="block.textformat.php" server="192.168.1.100" local="131236421797176926" remote="131115298800000000" Dst="1" />
+<file name="function.counter.php" server="192.168.1.100" local="131236421797196927" remote="131115298800000000" Dst="1" />
+<file name="function.cycle.php" server="192.168.1.100" local="131236421797331957" remote="131115298800000000" Dst="1" />
+<file name="function.fetch.php" server="192.168.1.100" local="131236421797461959" remote="131115298800000000" Dst="1" />
+<file name="function.html_checkboxes.php" server="192.168.1.100" local="131236421797486963" remote="131115298800000000" Dst="1" />
+<file name="function.html_image.php" server="192.168.1.100" local="131236421797496978" remote="131115298800000000" Dst="1" />
+<file name="function.html_options.php" server="192.168.1.100" local="131236421797656987" remote="131115298800000000" Dst="1" />
+<file name="function.html_select_date.php" server="192.168.1.100" local="131236421797777004" remote="131115298800000000" Dst="1" />
+<file name="function.html_radios.php" server="192.168.1.100" local="131236421797912017" remote="131115298800000000" Dst="1" />
+<file name="function.html_select_time.php" server="192.168.1.100" local="131236421797932020" remote="131115298800000000" Dst="1" />
+<file name="function.html_table.php" server="192.168.1.100" local="131236421797952026" remote="131115298800000000" Dst="1" />
+<file name="function.mailto.php" server="192.168.1.100" local="131236421798132048" remote="131115298800000000" Dst="1" />
+<file name="function.math.php" server="192.168.1.100" local="131236421798322075" remote="131115298800000000" Dst="1" />
+<file name="function.popup.php" server="192.168.1.100" local="131236421798332072" remote="131115298800000000" Dst="1" />
+<file name="function.popup_init.php" server="192.168.1.100" local="131236421798432084" remote="131115298800000000" Dst="1" />
+<file name="modifier.capitalize.php" server="192.168.1.100" local="131236421798472090" remote="131115298800000000" Dst="1" />
+<file name="modifier.date_format.php" server="192.168.1.100" local="131236421798512093" remote="131115298800000000" Dst="1" />
+<file name="modifier.debug_print_var.php" server="192.168.1.100" local="131236421798532100" remote="131115298800000000" Dst="1" />
+<file name="modifier.escape.php" server="192.168.1.100" local="131236421798542110" remote="131115298800000000" Dst="1" />
+<file name="modifier.replace.php" server="192.168.1.100" local="131236421798567101" remote="131115298800000000" Dst="1" />
+<file name="modifier.spacify.php" server="192.168.1.100" local="131236421798587103" remote="131115298800000000" Dst="1" />
+<file name="modifier.regex_replace.php" server="192.168.1.100" local="131236421798622110" remote="131115298800000000" Dst="1" />
+<file name="modifier.truncate.php" server="192.168.1.100" local="131236421798642109" remote="131115298800000000" Dst="1" />
+<file name="modifiercompiler.cat.php" server="192.168.1.100" local="131236421798712121" remote="131115298800000000" Dst="1" />
+<file name="modifiercompiler.count_characters.php" server="192.168.1.100" local="131236421798807130" remote="131115298800000000" Dst="1" />
+<file name="modifiercompiler.count_paragraphs.php" server="192.168.1.100" local="131236421798887140" remote="131115298800000000" Dst="1" />
+<file name="modifiercompiler.count_sentences.php" server="192.168.1.100" local="131236421799002159" remote="131115298800000000" Dst="1" />
+<file name="modifiercompiler.count_words.php" server="192.168.1.100" local="131236421799087171" remote="131115298800000000" Dst="1" />
+<file name="modifiercompiler.default.php" server="192.168.1.100" local="131236421799162176" remote="131115298800000000" Dst="1" />
+<file name="modifiercompiler.indent.php" server="192.168.1.100" local="131236421799252187" remote="131115298800000000" Dst="1" />
+<file name="modifiercompiler.lower.php" server="192.168.1.100" local="131236421799332472" remote="131115298800000000" Dst="1" />
+<file name="modifiercompiler.string_format.php" server="192.168.1.100" local="131236421799537228" remote="131115298800000000" Dst="1" />
+<file name="modifiercompiler.strip.php" server="192.168.1.100" local="131236421799602232" remote="131115298800000000" Dst="1" />
+<file name="modifiercompiler.noprint.php" server="192.168.1.100" local="131236421799737252" remote="131115298800000000" Dst="1" />
+<file name="modifiercompiler.strip_tags.php" server="192.168.1.100" local="131236421800042289" remote="131115298800000000" Dst="1" />
+<file name="modifiercompiler.upper.php" server="192.168.1.100" local="131236421800117296" remote="131115298800000000" Dst="1" />
+<file name="modifiercompiler.wordwrap.php" server="192.168.1.100" local="131236421800192308" remote="131115298800000000" Dst="1" />
+<file name="outputfilter.trimwhitespace.php" server="192.168.1.100" local="131236421800237314" remote="131115298800000000" Dst="1" />
+<file name="shared.escape_special_chars.php" server="192.168.1.100" local="131236421800242314" remote="131115298800000000" Dst="1" />
+<file name="shared.make_timestamp.php" server="192.168.1.100" local="131236421800332325" remote="131115298800000000" Dst="1" />
+<file name="variablefilter.htmlspecialchars.php" server="192.168.1.100" local="131236421800392336" remote="131115298800000000" Dst="1" />
+</dwsync>

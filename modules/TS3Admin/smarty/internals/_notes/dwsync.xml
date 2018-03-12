@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="core.assemble_plugin_filepath.php" server="192.168.1.100" local="131236421127091638" remote="131104270200000000" Dst="1" />
+<file name="core.assign_smarty_interface.php" server="192.168.1.100" local="131236421127171649" remote="131104270200000000" Dst="1" />
+<file name="core.create_dir_structure.php" server="192.168.1.100" local="131236421127871738" remote="131104270200000000" Dst="1" />
+<file name="core.display_debug_console.php" server="192.168.1.100" local="131236421127941752" remote="131104270200000000" Dst="1" />
+<file name="core.get_include_path.php" server="192.168.1.100" local="131236421128051761" remote="131104270200000000" Dst="1" />
+<file name="core.get_microtime.php" server="192.168.1.100" local="131236421128116774" remote="131104270200000000" Dst="1" />
+<file name="core.get_php_resource.php" server="192.168.1.100" local="131236421128201785" remote="131104270200000000" Dst="1" />
+<file name="core.is_secure.php" server="192.168.1.100" local="131236421128301793" remote="131104270200000000" Dst="1" />
+<file name="core.is_trusted.php" server="192.168.1.100" local="131236421128376807" remote="131104270200000000" Dst="1" />
+<file name="core.load_plugins.php" server="192.168.1.100" local="131236421128481822" remote="131104270200000000" Dst="1" />
+<file name="core.load_resource_plugin.php" server="192.168.1.100" local="131236421128601833" remote="131104270200000000" Dst="1" />
+<file name="core.process_cached_inserts.php" server="192.168.1.100" local="131236421128691843" remote="131104270200000000" Dst="1" />
+<file name="core.process_compiled_include.php" server="192.168.1.100" local="131236421128771852" remote="131104270200000000" Dst="1" />
+<file name="core.read_cache_file.php" server="192.168.1.100" local="131236421128886868" remote="131104270200000000" Dst="1" />
+<file name="core.rm_auto.php" server="192.168.1.100" local="131236421128966877" remote="131104270200000000" Dst="1" />
+<file name="core.rmdir.php" server="192.168.1.100" local="131236421129036895" remote="131104270200000000" Dst="1" />
+<file name="core.run_insert_handler.php" server="192.168.1.100" local="131236421129146904" remote="131104270200000000" Dst="1" />
+<file name="core.smarty_include_php.php" server="192.168.1.100" local="131236421129226910" remote="131104270200000000" Dst="1" />
+<file name="core.write_cache_file.php" server="192.168.1.100" local="131236421129326929" remote="131104270200000000" Dst="1" />
+<file name="core.write_compiled_include.php" server="192.168.1.100" local="131236421129476955" remote="131104270200000000" Dst="1" />
+<file name="core.write_compiled_resource.php" server="192.168.1.100" local="131236421129551963" remote="131104270200000000" Dst="1" />
+<file name="core.write_file.php" server="192.168.1.100" local="131236421129632012" remote="131104270200000000" Dst="1" />
+</dwsync>

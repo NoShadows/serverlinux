@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="addonsmanager.php" server="192.168.1.100" local="131236421123106137" remote="131104270200000000" Dst="1" />
+<file name="TS3Admin.php" server="192.168.1.100" local="131236421123206149" remote="131104270200000000" Dst="1" />
+<file name="administration.php" server="192.168.1.100" local="131236421123286160" remote="131231446200000000" Dst="1" />
+<file name="billing.php" server="192.168.1.100" local="131236421123416173" remote="131231447400000000" Dst="1" />
+<file name="config_games.php" server="192.168.1.100" local="131236421123481189" remote="131104270200000000" Dst="1" />
+<file name="cron.php" server="192.168.1.100" local="131236421123541199" remote="131231447400000000" Dst="1" />
+<file name="dashboard.php" server="192.168.1.100" local="131236421123631201" remote="131104270200000000" Dst="1" />
+<file name="dsi.php" server="192.168.1.100" local="131236421123636202" remote="131231447400000000" Dst="1" />
+<file name="extras.php" server="192.168.1.100" local="131236421123711220" remote="131104270200000000" Dst="1" />
+<file name="fastdl.php" server="192.168.1.100" local="131236421123801228" remote="131231447400000000" Dst="1" />
+<file name="ftp.php" server="192.168.1.100" local="131236421123871231" remote="131104270200000000" Dst="1" />
+<file name="gamemanager.php" server="192.168.1.100" local="131236421123986245" remote="131231446200000000" Dst="1" />
+<file name="litefm.php" server="192.168.1.100" local="131236421124076264" remote="131231446200000000" Dst="1" />
+<file name="lostpwd.php" server="192.168.1.100" local="131236421124141266" remote="131104270200000000" Dst="1" />
+<file name="modulemanager.php" server="192.168.1.100" local="131236421124231285" remote="131231446200000000" Dst="1" />
+<file name="mysql.php" server="192.168.1.100" local="131236421124351292" remote="131235543000000000" Dst="1" />
+<file name="rcon.php" server="192.168.1.100" local="131236421124421311" remote="131231447400000000" Dst="1" />
+<file name="register.php" server="192.168.1.100" local="131236421124506319" remote="131231446200000000" Dst="1" />
+<file name="server.php" server="192.168.1.100" local="131236421124621333" remote="131104270200000000" Dst="1" />
+<file name="settings.php" server="192.168.1.100" local="131236421124736343" remote="131231446200000000" Dst="1" />
+<file name="subusers.php" server="192.168.1.100" local="131236421124746343" remote="131231446200000000" Dst="1" />
+<file name="support.php" server="192.168.1.100" local="131236421124881369" remote="131231447400000000" Dst="1" />
+<file name="update.php" server="192.168.1.100" local="131236421124976384" remote="131104270200000000" Dst="1" />
+<file name="user_admin.php" server="192.168.1.100" local="131236421125076392" remote="131231446200000000" Dst="1" />
+<file name="user_games.php" server="192.168.1.100" local="131236421125206400" remote="131231446200000000" Dst="1" />
+</dwsync>

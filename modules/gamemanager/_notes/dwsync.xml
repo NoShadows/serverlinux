@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="MinecraftRcon.class.php" server="192.168.1.100" local="131236421414957144" remote="131104270200000000" Dst="1" />
+<file name="cfg_text_replace.php" server="192.168.1.100" local="131236421415082171" remote="131104270200000000" Dst="1" />
+<file name="game_monitor.css" server="192.168.1.100" local="131236421415107172" remote="131104270200000000" Dst="1" />
+<file name="home_handling_functions.php" server="192.168.1.100" local="131236421415262187" remote="131104270200000000" Dst="1" />
+<file name="mini_start.php" server="192.168.1.100" local="131236421415422217" remote="131104270200000000" Dst="1" />
+<file name="module.php" server="192.168.1.100" local="131236421415552221" remote="131231446200000000" Dst="1" />
+<file name="navigation.xml" server="192.168.1.100" local="131236421415627231" remote="131104270200000000" Dst="1" />
+<file name="rcon.php" server="192.168.1.100" local="131236421415807264" remote="131231446200000000" Dst="1" />
+<file name="rcon_presets.php" server="192.168.1.100" local="131236421415947278" remote="131104270200000000" Dst="1" />
+<file name="ref_servermonitor.php" server="192.168.1.100" local="131236421420583681" remote="131104270200000000" Dst="1" />
+<file name="restart_server.php" server="192.168.1.100" local="131236421420723729" remote="131104270200000000" Dst="1" />
+<file name="rsync.list" server="192.168.1.100" local="131236421420748712" remote="131104270200000000" Dst="1" />
+<file name="rsync_install.php" server="192.168.1.100" local="131236421420933727" remote="131231446200000000" Dst="1" />
+<file name="rsync_sites.list" server="192.168.1.100" local="131236421420958729" remote="131104270200000000" Dst="1" />
+<file name="rsync_sites_local.list" server="192.168.1.100" local="131236421420753713" remote="131104270200000000" Dst="1" />
+<file name="sizes.list" server="192.168.1.100" local="131236421421063752" remote="131104270200000000" Dst="1" />
+<file name="server_monitor.php" server="192.168.1.100" local="131236421421448791" remote="131231446200000000" Dst="1" />
+<file name="start_server.php" server="192.168.1.100" local="131236421421558807" remote="131104270200000000" Dst="1" />
+<file name="stop_server.php" server="192.168.1.100" local="131236421421703834" remote="131104270200000000" Dst="1" />
+<file name="update_server.php" server="192.168.1.100" local="131236421421843853" remote="131231446200000000" Dst="1" />
+<file name="update_server_manual.php" server="192.168.1.100" local="131236421421998871" remote="131104270200000000" Dst="1" />
+<file name="upload_map_image.php" server="192.168.1.100" local="131236421422138890" remote="131104270200000000" Dst="1" />
+<file name="view_server_log.php" server="192.168.1.100" local="131236421422308902" remote="131231446200000000" Dst="1" />
+</dwsync>

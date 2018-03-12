@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="add_user.php" server="192.168.1.100" local="131236421482956590" remote="131235543000000000" Dst="1" />
+<file name="add_group.php" server="192.168.1.100" local="131236421483051613" remote="131231446200000000" Dst="1" />
+<file name="add_to_group.php" server="192.168.1.100" local="131236421483161614" remote="131104270200000000" Dst="1" />
+<file name="del_from_group.php" server="192.168.1.100" local="131236421483266635" remote="131104270200000000" Dst="1" />
+<file name="del_group.php" server="192.168.1.100" local="131236421483381643" remote="131104270200000000" Dst="1" />
+<file name="del_user.php" server="192.168.1.100" local="131236421483491678" remote="131235543000000000" Dst="1" />
+<file name="edit_user.php" server="192.168.1.100" local="131236421483656688" remote="131231446200000000" Dst="1" />
+<file name="module.php" server="192.168.1.100" local="131236421483816705" remote="131231446200000000" Dst="1" />
+<file name="navigation.xml" server="192.168.1.100" local="131236421483861723" remote="131104270200000000" Dst="1" />
+<file name="show_groups.php" server="192.168.1.100" local="131236421484066730" remote="131231446200000000" Dst="1" />
+<file name="show_users.php" server="192.168.1.100" local="131236421484166749" remote="131231446200000000" Dst="1" />
+</dwsync>

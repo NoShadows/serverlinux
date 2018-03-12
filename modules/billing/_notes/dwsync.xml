@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="add_to_cart.php" server="192.168.1.100" local="131236421140413573" remote="131231447400000000" Dst="1" />
+<file name="bill.php" server="192.168.1.100" local="131236421140648598" remote="131231447400000000" Dst="1" />
+<file name="cart.php" server="192.168.1.100" local="131236421141053649" remote="131231447400000000" Dst="1" />
+<file name="create_servers.php" server="192.168.1.100" local="131236421141193663" remote="131231447400000000" Dst="1" />
+<file name="cron-shop.php" server="192.168.1.100" local="131236421141313680" remote="131231447400000000" Dst="1" />
+<file name="ipnlistener.php" server="192.168.1.100" local="131236421141483703" remote="131235544800000000" Dst="1" />
+<file name="module.php" server="192.168.1.100" local="131236421141593717" remote="131231447400000000" Dst="1" />
+<file name="navigation.xml" server="192.168.1.100" local="131236421141623719" remote="131235544800000000" Dst="1" />
+<file name="paid.php" server="192.168.1.100" local="131236421142018768" remote="131235544800000000" Dst="1" />
+<file name="orders.php" server="192.168.1.100" local="131236421142383814" remote="131231447400000000" Dst="1" />
+<file name="paid-ipn.php" server="192.168.1.100" local="131236421142493828" remote="131231447400000000" Dst="1" />
+<file name="paygol-ipn.php" server="192.168.1.100" local="131236421142623853" remote="131231447400000000" Dst="1" />
+<file name="paygol.php" server="192.168.1.100" local="131236421142728857" remote="131231447400000000" Dst="1" />
+<file name="paypal.class.php" server="192.168.1.100" local="131236421142878884" remote="131231447400000000" Dst="1" />
+<file name="paypal.php" server="192.168.1.100" local="131236421143008894" remote="131231447400000000" Dst="1" />
+<file name="robokassa-ipn.php" server="192.168.1.100" local="131236421143103907" remote="131231447400000000" Dst="1" />
+<file name="robokassa.php" server="192.168.1.100" local="131236421143193930" remote="131231447400000000" Dst="1" />
+<file name="services.php" server="192.168.1.100" local="131236421143569023" remote="131231447400000000" Dst="1" />
+<file name="settings.php" server="192.168.1.100" local="131236421143693981" remote="131231447400000000" Dst="1" />
+<file name="shop.php" server="192.168.1.100" local="131236421143954014" remote="131231447400000000" Dst="1" />
+<file name="shop_guest.php" server="192.168.1.100" local="131236421144159039" remote="131235544800000000" Dst="1" />
+<file name="skrill-ipn.php" server="192.168.1.100" local="131236421144259053" remote="131231447400000000" Dst="1" />
+<file name="skrill.php" server="192.168.1.100" local="131236421144374070" remote="131231447400000000" Dst="1" />
+</dwsync>

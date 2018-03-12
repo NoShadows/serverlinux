@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="fckcontextmenu.js" server="192.168.1.100" local="131236421224469712" remote="131235543000000000" Dst="1" />
+<file name="fckdataprocessor.js" server="192.168.1.100" local="131236421224559724" remote="131235543000000000" Dst="1" />
+<file name="fckdocumentfragment_gecko.js" server="192.168.1.100" local="131236421224669738" remote="131235543000000000" Dst="1" />
+<file name="fckdocumentfragment_ie.js" server="192.168.1.100" local="131236421224754750" remote="131235543000000000" Dst="1" />
+<file name="fckdomrange.js" server="192.168.1.100" local="131236421225139801" remote="131235543000000000" Dst="1" />
+<file name="fckdomrange_gecko.js" server="192.168.1.100" local="131236421225254815" remote="131235543000000000" Dst="1" />
+<file name="fckdomrange_ie.js" server="192.168.1.100" local="131236421225409836" remote="131235543000000000" Dst="1" />
+<file name="fckdomrangeiterator.js" server="192.168.1.100" local="131236421225634866" remote="131235543000000000" Dst="1" />
+<file name="fckeditingarea.js" server="192.168.1.100" local="131236421225969907" remote="131235543000000000" Dst="1" />
+<file name="fckelementpath.js" server="192.168.1.100" local="131236421226059924" remote="131235543000000000" Dst="1" />
+<file name="fckenterkey.js" server="192.168.1.100" local="131236421226379957" remote="131235543000000000" Dst="1" />
+<file name="fckevents.js" server="192.168.1.100" local="131236421226494979" remote="131235543000000000" Dst="1" />
+<file name="fckhtmliterator.js" server="192.168.1.100" local="131236421226614997" remote="131235543000000000" Dst="1" />
+<file name="fckicon.js" server="192.168.1.100" local="131236421226745003" remote="131235543000000000" Dst="1" />
+<file name="fckiecleanup.js" server="192.168.1.100" local="131236421226835024" remote="131235543000000000" Dst="1" />
+<file name="fckimagepreloader.js" server="192.168.1.100" local="131236421226925036" remote="131235543000000000" Dst="1" />
+<file name="fckkeystrokehandler.js" server="192.168.1.100" local="131236421227060053" remote="131235543000000000" Dst="1" />
+<file name="fckmenublock.js" server="192.168.1.100" local="131236421227185059" remote="131235543000000000" Dst="1" />
+<file name="fckmenublockpanel.js" server="192.168.1.100" local="131236421227285073" remote="131235543000000000" Dst="1" />
+<file name="fckmenuitem.js" server="192.168.1.100" local="131236421227455098" remote="131235543000000000" Dst="1" />
+<file name="fckpanel.js" server="192.168.1.100" local="131236421227770143" remote="131235543000000000" Dst="1" />
+<file name="fckplugin.js" server="192.168.1.100" local="131236421227860146" remote="131235543000000000" Dst="1" />
+<file name="fckspecialcombo.js" server="192.168.1.100" local="131236421228185197" remote="131235543000000000" Dst="1" />
+<file name="fcktoolbar.js" server="192.168.1.100" local="131236421228285204" remote="131235543000000000" Dst="1" />
+<file name="fckstyle.js" server="192.168.1.100" local="131236421228645254" remote="131235543000000000" Dst="1" />
+<file name="fcktoolbarbreak_gecko.js" server="192.168.1.100" local="131236421228725254" remote="131235543000000000" Dst="1" />
+<file name="fcktoolbarbreak_ie.js" server="192.168.1.100" local="131236421228825275" remote="131235543000000000" Dst="1" />
+<file name="fcktoolbarbutton.js" server="192.168.1.100" local="131236421228975294" remote="131235543000000000" Dst="1" />
+<file name="fcktoolbarbuttonui.js" server="192.168.1.100" local="131236421229105307" remote="131235543000000000" Dst="1" />
+<file name="fcktoolbarfontformatcombo.js" server="192.168.1.100" local="131236421229230327" remote="131235543000000000" Dst="1" />
+<file name="fcktoolbarfontscombo.js" server="192.168.1.100" local="131236421229345346" remote="131235543000000000" Dst="1" />
+<file name="fcktoolbarfontsizecombo.js" server="192.168.1.100" local="131236421229450346" remote="131235543000000000" Dst="1" />
+<file name="fcktoolbarpanelbutton.js" server="192.168.1.100" local="131236421229585376" remote="131235543000000000" Dst="1" />
+<file name="fcktoolbarspecialcombo.js" server="192.168.1.100" local="131236421229795397" remote="131235543000000000" Dst="1" />
+<file name="fcktoolbarstylecombo.js" server="192.168.1.100" local="131236421230791066" remote="131235543000000000" Dst="1" />
+<file name="fckw3crange.js" server="192.168.1.100" local="131236421231076101" remote="131235543000000000" Dst="1" />
+<file name="fckxml.js" server="192.168.1.100" local="131236421231171112" remote="131235543000000000" Dst="1" />
+<file name="fckxml_gecko.js" server="192.168.1.100" local="131236421231286129" remote="131235543000000000" Dst="1" />
+<file name="fckxml_ie.js" server="192.168.1.100" local="131236421231401154" remote="131235543000000000" Dst="1" />
+</dwsync>

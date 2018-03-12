@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="banlist.tpl" server="192.168.1.100" local="131236421134087529" remote="131104270200000000" Dst="1" />
+<file name="header.tpl" server="192.168.1.100" local="131236421134147534" remote="131104270200000000" Dst="1" />
+<file name="footer.tpl" server="192.168.1.100" local="131236421134287557" remote="131235543000000000" Dst="1" />
+<file name="liveview.tpl" server="192.168.1.100" local="131236421134317560" remote="131104270200000000" Dst="1" />
+<file name="loginForm.tpl" server="192.168.1.100" local="131236421134152544" remote="131104270200000000" Dst="1" />
+<file name="selectvServer.tpl" server="192.168.1.100" local="131236421134387571" remote="131104270200000000" Dst="1" />
+<file name="updateAvailable.tpl" server="192.168.1.100" local="131236421134427571" remote="131104270200000000" Dst="1" />
+<file name="vServerLiveview.tpl" server="192.168.1.100" local="131236421136973128" remote="131104270200000000" Dst="1" />
+<file name="vServerOverview.tpl" server="192.168.1.100" local="131236421137028137" remote="131104270200000000" Dst="1" />
+<file name="vServerToken.tpl" server="192.168.1.100" local="131236421137088141" remote="131104270200000000" Dst="1" />
+</dwsync>

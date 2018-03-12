@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="channel_flag_default.png" server="192.168.1.100" local="131236421085615881" remote="131104270200000000" Dst="1" />
+<file name="channel_flag_moderated.png" server="192.168.1.100" local="131236421085730896" remote="131104270200000000" Dst="1" />
+<file name="channel_flag_music.png" server="192.168.1.100" local="131236421085750899" remote="131104270200000000" Dst="1" />
+<file name="channel_flag_password.png" server="192.168.1.100" local="131236421085765897" remote="131104270200000000" Dst="1" />
+<file name="channel_full.png" server="192.168.1.100" local="131236421085780910" remote="131104270200000000" Dst="1" />
+<file name="channel_open.png" server="192.168.1.100" local="131236421085795912" remote="131104270200000000" Dst="1" />
+<file name="channel_pass.png" server="192.168.1.100" local="131236421085815903" remote="131104270200000000" Dst="1" />
+<file name="client_away.png" server="192.168.1.100" local="131236421085825907" remote="131104270200000000" Dst="1" />
+<file name="client_cc.png" server="192.168.1.100" local="131236421085840907" remote="131104270200000000" Dst="1" />
+<file name="client_cc_idle.png" server="192.168.1.100" local="131236421085855909" remote="131104270200000000" Dst="1" />
+<file name="client_mic_disabled.png" server="192.168.1.100" local="131236421085880911" remote="131104270200000000" Dst="1" />
+<file name="client_cc_talk.png" server="192.168.1.100" local="131236421085930921" remote="131104270200000000" Dst="1" />
+<file name="client_idle.png" server="192.168.1.100" local="131236421085935924" remote="131104270200000000" Dst="1" />
+<file name="client_mic_muted.png" server="192.168.1.100" local="131236421085945924" remote="131104270200000000" Dst="1" />
+<file name="client_priority.png" server="192.168.1.100" local="131236421085965929" remote="131104270200000000" Dst="1" />
+<file name="client_query.png" server="192.168.1.100" local="131236421086205955" remote="131104270200000000" Dst="1" />
+<file name="client_snd_disabled.png" server="192.168.1.100" local="131236421086250962" remote="131104270200000000" Dst="1" />
+<file name="client_snd_muted.png" server="192.168.1.100" local="131236421086275969" remote="131104270200000000" Dst="1" />
+<file name="client_talk.png" server="192.168.1.100" local="131236421086285964" remote="131104270200000000" Dst="1" />
+<file name="client_talker.png" server="192.168.1.100" local="131236421086305969" remote="131104270200000000" Dst="1" />
+<file name="client_talker_request.png" server="192.168.1.100" local="131236421086330971" remote="131104270200000000" Dst="1" />
+<file name="group_channel.png" server="192.168.1.100" local="131236421086350972" remote="131104270200000000" Dst="1" />
+<file name="group_icon_0.png" server="192.168.1.100" local="131236421086390977" remote="131104270200000000" Dst="1" />
+<file name="group_icon_100.png" server="192.168.1.100" local="131236421086415981" remote="131104270200000000" Dst="1" />
+<file name="group_icon_200.png" server="192.168.1.100" local="131236421086450986" remote="131104270200000000" Dst="1" />
+<file name="group_icon_300.png" server="192.168.1.100" local="131236421086460986" remote="131104270200000000" Dst="1" />
+<file name="group_icon_400.png" server="192.168.1.100" local="131236421086495991" remote="131104270200000000" Dst="1" />
+<file name="group_icon_500.png" server="192.168.1.100" local="131236421086540997" remote="131104270200000000" Dst="1" />
+<file name="group_icon_600.png" server="192.168.1.100" local="131236421086561000" remote="131104270200000000" Dst="1" />
+<file name="group_server.png" server="192.168.1.100" local="131236421086591005" remote="131104270200000000" Dst="1" />
+<file name="host.png" server="192.168.1.100" local="131236421086901048" remote="131104270200000000" Dst="1" />
+<file name="server_full.png" server="192.168.1.100" local="131236421086956051" remote="131104270200000000" Dst="1" />
+<file name="server_open.png" server="192.168.1.100" local="131236421086966050" remote="131104270200000000" Dst="1" />
+<file name="server_pass.png" server="192.168.1.100" local="131236421086981055" remote="131104270200000000" Dst="1" />
+<file name="spacer_dashdotdotline.gif" server="192.168.1.100" local="131236421087021063" remote="131104270200000000" Dst="1" />
+<file name="spacer_dashdotline.gif" server="192.168.1.100" local="131236421087036059" remote="131104270200000000" Dst="1" />
+<file name="spacer_dashline.gif" server="192.168.1.100" local="131236421087056063" remote="131104270200000000" Dst="1" />
+<file name="spacer_dotline.gif" server="192.168.1.100" local="131236421087081065" remote="131104270200000000" Dst="1" />
+<file name="spacer_solidline.gif" server="192.168.1.100" local="131236421087151076" remote="131104270200000000" Dst="1" />
+<file name="tree_end.gif" server="192.168.1.100" local="131236421087206085" remote="131104270200000000" Dst="1" />
+<file name="tree.png" server="192.168.1.100" local="131236421087246087" remote="131104270200000000" Dst="1" />
+<file name="tree_blank.png" server="192.168.1.100" local="131236421087271091" remote="131104270200000000" Dst="1" />
+<file name="tree_line.gif" server="192.168.1.100" local="131236421087431119" remote="131104270200000000" Dst="1" />
+<file name="tree_mid.gif" server="192.168.1.100" local="131236421087431119" remote="131104270200000000" Dst="1" />
+</dwsync>
